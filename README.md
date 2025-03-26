@@ -9,4 +9,4 @@ This is my professional portfolio website showcasing my skills, projects, and ex
 - Skills and certifications display
 - Contact information and social links
 
-Visit my live portfolio at: [your-username.github.io](https://your-username.github.io) 
+Visit my live portfolio at: [iamparvezali085.github.io](https://iamparvezali085.github.io) 
